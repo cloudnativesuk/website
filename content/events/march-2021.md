@@ -5,6 +5,8 @@ draft: false
 tags: [ "cncf", "event", "manchester", "edinburgh", "glasgow", "wales" ]
 ---
 
+![Dan Pop](/img/danpop.png#center)
+
 The inaugural Cloud Natives UK event with Dan "POP" Papandrea!  This one's scheduled for March 25th and will kick off at 6pm GMT.
 
 <!--more-->
