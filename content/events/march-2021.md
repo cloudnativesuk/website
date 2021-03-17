@@ -1,6 +1,6 @@
 ---
 title: "March 2021 with Dan \"POP\" Papandrea"
-date: 2019-03-05
+date: 2019-03-25
 draft: false
 tags: [ "cncf", "event", "manchester", "edinburgh", "glasgow", "wales" ]
 ---
