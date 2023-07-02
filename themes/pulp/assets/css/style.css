@@ -39,7 +39,12 @@ a:active {
 /* Header */
 header .avatar {
   position: relative;
-  height: 300px;
+  height: 600px;
+}
+
+header .avatar-small {
+  position: relative;
+  height: 600px;
 }
 
 header .avatar img {
